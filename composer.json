@@ -23,9 +23,6 @@
   "homepage": "https://github.com/munafio/chatify",
   "minimum-stability": "dev",
   "prefer-stable": true,
-  "require": {
-    "pusher/pusher-php-server": "^6.0|^7.0|^7.1"
-  },
   "autoload": {
     "psr-4": {
       "Chatify\\": "src/"
